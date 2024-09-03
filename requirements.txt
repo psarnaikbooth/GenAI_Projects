@@ -1,0 +1,6 @@
+Create/install/import the following:
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
